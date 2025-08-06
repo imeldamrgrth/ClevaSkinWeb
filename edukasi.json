@@ -1,0 +1,337 @@
+{
+  "Acne": {
+    "penjelasan": "Kondisi kulit umum yang terjadi saat pori-pori tersumbat oleh minyak, sel kulit mati, dan bakteri...",
+    "gejala": [
+      "Komedo putih (whiteheads): pori tertutup yang tersumbat.",
+      "Komedo hitam (blackheads): pori terbuka yang tersumbat.",
+      "Papula: benjolan merah dan nyeri.",
+      "Pustula: papula berisi nanah.",
+      "Nodul: benjolan keras dan nyeri di bawah kulit.",
+      "Kista: benjolan besar dan berisi nanah, bisa meninggalkan bekas luka."
+    ],
+    "edukasi": [
+      "Cuci wajah dua kali sehari dengan air hangat dan pembersih lembut.",
+      "Gunakan pelembap bebas minyak (_oil-free_) dan produk dengan label 'noncomedogenic'.",
+      "Hindari menyentuh atau memencet jerawat.",
+      {
+        "text": "Gunakan produk bebas resep seperti:",
+        "sub": [
+          "Benzoyl Peroxide: membunuh bakteri penyebab jerawat.",
+          "Salicylic Acid: membantu membuka pori.",
+          "Adapalene: mencegah penyumbatan pori."
+        ]
+      },
+      "Hapus riasan sebelum tidur.",
+      "Konsumsi makanan sehat dan hindari konsumsi berlebihan makanan tinggi gula atau susu rendah lemak."
+    ],
+    "warning": "Segera ke dokter jika jerawat memburuk, terasa nyeri, meninggalkan bekas, atau muncul tiba-tiba di usia dewasa."
+},
+  "Athlete Foot": {
+    "penjelasan": "Athlete's foot (tinea pedis) adalah infeksi jamur menular pada kulit kaki yang menyebabkan ruam gatal, menyengat, dan terbakar. Umumnya terjadi di antara jari-jari kaki dan sering menyerang orang yang memakai sepatu tertutup dalam waktu lama. Infeksi ini bisa kambuh dan menyebar ke bagian tubuh lain.",
+    "gejala": [
+      "Kulit bersisik, mengelupas, atau pecah-pecah di antara jari kaki.",
+      "Rasa gatal, terutama setelah melepas sepatu dan kaus kaki.",
+      "Kulit meradang dan tampak merah, ungu, atau abu-abu tergantung warna kulit.",
+      "Rasa terbakar atau menyengat.",
+      "Munculnya lepuh.",
+      "Kulit kering dan bersisik di telapak kaki yang menjalar ke samping kaki.",
+      "Kulit pecah-pecah atau luka terbuka (terutama tipe ulcerative)."
+    ],
+    "edukasi": [
+      "Cuci kaki dua kali sehari dengan sabun antibakteri, lalu keringkan dengan handuk terutama di antara jari kaki.",
+      {
+        "text": "Gunakan obat antijamur topikal atau oral seperti:",
+        "sub": [
+          "Clotrimazole, miconazole, tolnaftate, atau terbinafine (topikal).",
+          "Fluconazole, itraconazole, atau terbinafine (oral)."
+        ]
+      },
+      "Ganti kaus kaki minimal sekali sehari, lebih sering jika kaki berkeringat.",
+      "Kenakan sepatu ringan dan berventilasi, hindari sepatu berbahan sintetis seperti karet atau vinil.",
+      "Gunakan sepatu atau sandal yang berbeda tiap hari agar sempat kering.",
+      "Kenakan sandal tahan air di tempat umum seperti kolam, kamar mandi, atau gym.",
+      {
+        "text": "Untuk mencegah infeksi menyebar:",
+        "sub": [
+          "Jangan menggaruk ruam agar tidak menyebar ke bagian tubuh lain.",
+          "Jangan berbagi sepatu, kaus kaki, handuk, atau sprei dengan orang lain.",
+          "Cuci handuk, kaus kaki, dan seprai dengan air panas."
+        ]
+      },
+      "Jika memungkinkan, biarkan kaki terkena udara sebanyak mungkin.",
+      "Gunakan bedak kaki antijamur atau bedak talek untuk menjaga kaki tetap kering."
+    ],
+    "warning": "Segera temui dokter jika ruam tidak membaik dalam dua minggu setelah perawatan mandiri, jika mengalami pembengkakan, demam, atau keluarnya nanah dari area terinfeksi. Jika Anda mengidap diabetes dan mencurigai athlete’s foot, sebaiknya langsung konsultasi ke dokter karena risiko komplikasi lebih tinggi."
+},
+  "Atopic Dermatitis": {
+    "penjelasan": "Atopic dermatitis atau eksim atopik adalah kondisi kulit kronis yang menyebabkan kulit menjadi kering, gatal, meradang, dan terkadang pecah-pecah. Penyakit ini bisa kambuh secara berkala dan umum terjadi pada anak-anak, namun bisa juga berlangsung hingga dewasa. Meskipun tidak menular, kondisi ini dapat memengaruhi kualitas hidup penderitanya.",
+    "gejala": [
+      "Kulit kering dan pecah-pecah.",
+      "Gatal intens (terutama pada malam hari).",
+      "Ruam kemerahan atau keunguan tergantung warna kulit, sering muncul di lipatan siku atau belakang lutut.",
+      "Benjolan kecil berisi cairan yang bisa pecah dan berkerak.",
+      "Kulit menebal, bersisik, atau menghitam karena sering digaruk.",
+      "Lingkaran hitam di sekitar mata.",
+      "Kulit terasa perih, terbakar, atau sangat sensitif."
+    ],
+    "edukasi": [
+      "Gunakan pelembap (moisturizer) dua kali sehari untuk menjaga kelembapan kulit.",
+      "Mandi air hangat maksimal 10 menit, hindari air panas.",
+      "Gunakan sabun lembut bebas pewangi dan alkohol.",
+      "Keringkan kulit dengan cara ditepuk, bukan digosok.",
+      {
+        "text": "Kenali dan hindari pemicu umum seperti:",
+        "sub": [
+          "Keringat dan panas berlebih.",
+          "Stres emosional.",
+          "Bahan pakaian seperti wol atau sintetis.",
+          "Debu, tungau, bulu hewan, dan serbuk sari.",
+          "Makanan pemicu (misalnya telur atau susu pada anak-anak)."
+        ]
+      },
+      "Gunakan pakaian longgar dan berbahan lembut seperti katun.",
+      "Jaga kelembapan ruangan dengan humidifier.",
+      "Potong kuku pendek untuk mencegah luka akibat garukan.",
+      "Kompres dingin area yang gatal jika perlu."
+    ],
+    "warning": "Segera konsultasikan ke dokter jika muncul gejala infeksi (nanah, luka terbuka, demam), gejala tidak membaik meskipun sudah melakukan perawatan mandiri, atau mengganggu aktivitas dan tidur secara signifikan."
+},
+  "Chickenpox": {
+    "penjelasan": "Chickenpox (cacar air) adalah infeksi menular yang disebabkan oleh virus varicella-zoster. Penyakit ini menyebabkan ruam kulit berupa bintik merah yang berubah menjadi lepuh berisi cairan, kemudian menjadi koreng. Chickenpox sangat mudah menular, terutama pada orang yang belum pernah terkena atau belum divaksin. Sejak adanya vaksin, kasus chickenpox menurun drastis. Walau biasanya ringan pada anak-anak, chickenpox bisa menjadi serius pada orang dewasa, bayi, ibu hamil, dan individu dengan sistem imun lemah.",
+    
+    "gejala": [
+      "Demam ringan hingga sedang (biasanya mendahului ruam 1–2 hari sebelumnya).",
+      "Sakit kepala.",
+      "Kehilangan nafsu makan.",
+      "Kelelahan dan rasa tidak enak badan.",
+      "Ruam merah berupa bintik kecil (papula) yang berkembang menjadi lepuh berisi cairan (vesikel), lalu mengering (keropeng).",
+      "Ruam bisa menyebar ke seluruh tubuh, termasuk mata, mulut, tenggorokan, anus, dan vagina.",
+      "Beberapa tahap ruam (bintik, lepuh, keropeng) bisa muncul bersamaan.",
+      "Infeksi menular 1–2 hari sebelum ruam muncul hingga semua lepuh mengering."
+    ],
+
+    "edukasi": [
+      "Istirahat cukup dan perbanyak konsumsi cairan untuk mencegah dehidrasi.",
+      {
+        "text": "Mengurangi rasa gatal:",
+        "sub": [
+          "Mandi air dingin dengan tambahan oatmeal koloid, soda kue, atau aluminium asetat.",
+          "Gunakan losion calamine pada area yang gatal.",
+          "Antihistamin seperti diphenhydramine (Benadryl) atau cetirizine (Zyrtec) jika direkomendasikan dokter."
+        ]
+      },
+      "Potong kuku dan gunakan sarung tangan pada anak untuk mencegah garukan berlebihan.",
+      "Kenakan pakaian longgar dan lembut agar tidak mengiritasi kulit.",
+      "Berikan makanan lembut jika ada luka di dalam mulut.",
+      "Gunakan parasetamol untuk menurunkan demam, hindari pemberian aspirin karena risiko Reye's syndrome.",
+      "Hindari obat antiinflamasi nonsteroid (NSAID) seperti ibuprofen tanpa rekomendasi dokter.",
+      "Jaga jarak dari orang lain sampai semua lepuh mengering dan berkeropeng (biasanya 7–10 hari sejak ruam muncul).",
+      "Vaksin varicella sangat efektif (90%+), aman, dan bagian dari imunisasi rutin pada anak-anak. Tersedia dalam bentuk vaksin tunggal (Varivax) atau gabungan MMRV."
+    ],
+
+    "warning": "Segera hubungi dokter jika: ruam menyebar ke mata, terasa sangat nyeri, bernanah atau membengkak (tanda infeksi bakteri); muncul gejala berat seperti muntah, kejang, leher kaku, sulit bernapas, nyeri dada, kehilangan kesadaran; penderita adalah bayi baru lahir, ibu hamil, atau individu dengan gangguan sistem kekebalan tubuh seperti HIV, kanker, atau sedang menjalani kemoterapi."
+},
+"Impetigo": {
+  "penjelasan": "Impetigo adalah infeksi kulit yang sangat menular, paling sering menyerang anak-anak usia 2–5 tahun. Penyebab utamanya adalah bakteri *Staphylococcus aureus* atau *Streptococcus pyogenes* yang masuk ke dalam kulit melalui luka kecil, gigitan serangga, atau bahkan kulit yang tampak normal. Infeksi ini menyebabkan luka lepuh atau luka merah yang cepat pecah dan membentuk kerak berwarna kuning madu. Impetigo sering muncul di sekitar hidung, mulut, tangan, atau kaki. Meskipun biasanya ringan, impetigo dapat berkembang menjadi bentuk lebih serius seperti bullous impetigo dan ecthyma jika tidak ditangani.",
+  
+  "gejala": [
+    "Luka merah atau lepuhan kecil yang gatal, biasanya di wajah, terutama sekitar hidung dan mulut, atau di tangan dan kaki.",
+    "Lepuh pecah dan mengeluarkan cairan, lalu membentuk kerak berwarna kuning madu.",
+    "Gatal dan nyeri ringan di sekitar luka.",
+    "Pembengkakan kelenjar getah bening di dekat area yang terinfeksi.",
+    "Bullous impetigo: lepuh besar berisi cairan, tanpa kemerahan di sekitarnya, biasanya menyerang bayi di bawah usia 2 tahun.",
+    "Ecthyma: bentuk impetigo yang lebih dalam, dengan luka nyeri berisi nanah dan bisa menjadi borok serta meninggalkan bekas luka."
+  ],
+  
+  "edukasi": [
+    "Cuci luka kecil, gigitan serangga, dan ruam kulit dengan sabun dan air mengalir sesegera mungkin.",
+    "Gunakan salep antibiotik sesuai resep dokter untuk mengurangi penyebaran dan mempercepat penyembuhan.",
+    "Tutup luka dengan perban non-stick agar tidak menyebar ke bagian tubuh lain atau ke orang lain.",
+    "Jangan berbagi handuk, pakaian, sprei, atau alat pribadi dengan orang yang terinfeksi.",
+    "Cuci tangan secara rutin dan potong kuku anak pendek agar tidak memperparah luka saat menggaruk.",
+    {
+      "text": "Jika terinfeksi, pengobatan mencakup:",
+      "sub": [
+        "Antibiotik topikal seperti mupirocin (2–3 kali sehari selama 5–10 hari).",
+        "Antibiotik oral seperti cephalexin atau clindamycin jika infeksi menyebar luas atau menjadi ecthyma.",
+        "Perawatan kulit: bersihkan area dengan air hangat dan sabun ringan sebelum mengoleskan obat.",
+        "Gunakan salep bebas seperti bacitracin hanya untuk kasus ringan yang belum menyebar.",
+        "Isolasi anak dari sekolah atau tempat penitipan anak selama minimal 48 jam setelah mulai pengobatan."
+      ]
+    }
+  ],
+
+  "warning": "Segera temui dokter jika: luka memburuk atau tidak membaik dalam beberapa hari setelah pengobatan, muncul demam, nyeri hebat, atau tanda-tanda infeksi lebih dalam seperti nanah, kemerahan menyebar, atau pembengkakan luas. Waspadai komplikasi seperti cellulitis, glomerulonefritis, dan jaringan parut terutama jika tidak diobati dengan benar."
+},
+"Nail Fungus": {
+  "penjelasan": "Nail Fungus atau jamur kuku adalah infeksi jamur yang menyerang kuku kaki maupun kuku tangan. Infeksi biasanya dimulai sebagai bercak putih atau kuning kecokelatan di bawah ujung kuku, lalu menyebar lebih dalam dan menyebabkan kuku berubah warna, menebal, rapuh, dan bahkan terlepas dari dasar kuku. Penyebab utamanya adalah jamur dermatofita, tapi bisa juga disebabkan oleh ragi (yeast) atau bakteri. Kondisi ini lebih umum terjadi pada orang dewasa yang lebih tua, penderita diabetes, atau orang dengan sistem imun lemah. Walau tidak selalu berbahaya, infeksi ini dapat mengganggu penampilan, menimbulkan rasa sakit, dan sulit diobati.",
+
+  "gejala": [
+    "Kuku menebal dan keras.",
+    "Perubahan warna menjadi putih, kuning, coklat, atau hijau kehitaman.",
+    "Kuku menjadi rapuh, mudah hancur, atau pinggirnya terkelupas.",
+    "Bentuk kuku berubah dan tampak cacat.",
+    "Kuku bisa terangkat dari dasar kuku (onycholysis).",
+    "Muncul bau tidak sedap dari kuku.",
+    "Kadang disertai nyeri atau kesulitan saat berjalan jika menyerang kuku kaki."
+  ],
+
+  "edukasi": [
+    "Jaga kebersihan tangan dan kaki dengan mencuci dan mengeringkan secara menyeluruh, terutama di sela-sela jari.",
+    "Gunakan kaus kaki yang menyerap keringat dan ganti setiap hari.",
+    "Hindari berbagi alat pedikur atau pemotong kuku dengan orang lain.",
+    "Potong kuku secara lurus dan haluskan pinggirannya menggunakan kikir kuku steril.",
+    "Gunakan sepatu terbuka atau berbahan yang memungkinkan sirkulasi udara.",
+    {
+      "text": "Jika terinfeksi, pengobatan meliputi:",
+      "sub": [
+        "Obat antijamur oral seperti itraconazole atau terbinafine (biasanya diminum selama 6–12 minggu).",
+        "Obat topikal seperti ciclopirox (kuteks khusus), efinaconazole, atau tavaborole yang digunakan harian selama beberapa bulan.",
+        "Perawatan fisik: pelunakan kuku dengan krim urea atau pengikisan kuku (debriding) untuk membantu penetrasi obat.",
+        "Jika infeksi parah, dokter dapat mengangkat kuku sementara untuk aplikasi obat langsung ke bawah kuku.",
+        "Pengangkatan kuku secara permanen dilakukan jika kuku sangat rusak dan tidak membaik dengan terapi lain."
+      ]
+    }
+  ],
+
+  "warning": "Segera konsultasikan ke dokter jika infeksi menyebabkan nyeri hebat, kuku berubah bentuk drastis, terdapat nanah atau darah di sekitar kuku, atau jika kamu memiliki kondisi seperti diabetes, sirkulasi darah buruk, atau sistem imun lemah. Penundaan pengobatan bisa menyebabkan infeksi menyebar dan lebih sulit diatasi."
+},
+  "Non-Skin": {
+    "warning": "Gambar yang terdeteksi bukan merupakan area kulit manusia. Hal ini bisa terjadi jika gambar yang diunggah berisi objek lain seperti pakaian, benda, latar belakang, atau bagian tubuh yang tidak relevan dengan analisis kondisi kulit. Mohon pastikan gambar yang diunggah menampilkan area kulit yang jelas dan fokus. Silakan unggah ulang gambar dengan area kulit yang jelas, terang, dan fokus."
+},
+  "Normal Skin": {
+    "penjelasan": "Kulit terdeteksi dalam kondisi normal, sehat, dan tidak menunjukkan tanda-tanda infeksi, inflamasi, atau kelainan dermatologis lainnya. Kulit normal memiliki keseimbangan kadar minyak dan kelembapan, tidak terlalu kering atau berminyak, serta bebas dari lesi, ruam, atau perubahan warna mencurigakan."
+},
+"Ringworm": {
+  "penjelasan": "Ringworm atau tinea corporis adalah infeksi jamur pada kulit yang sangat menular, ditandai dengan ruam berbentuk cincin yang gatal dan bersisik. Meskipun namanya mengandung kata 'worm' (cacing), ringworm tidak disebabkan oleh cacing, melainkan oleh jamur dermatofita. Infeksi ini sering menyerang area tubuh seperti lengan, kaki, batang tubuh, dan wajah. Ringworm dapat menyebar melalui kontak langsung kulit ke kulit dengan orang atau hewan yang terinfeksi, atau melalui benda yang terkontaminasi seperti handuk, pakaian, dan permukaan umum yang lembap. Pengobatan biasanya menggunakan krim antijamur topikal, namun kasus yang parah memerlukan obat oral.",
+
+  "gejala": [
+    "Ruam berbentuk cincin yang gatal dan bersisik, sering kali pada lengan, kaki, atau batang tubuh.",
+    "Area tengah ruam terlihat lebih terang atau bersih dibanding tepinya.",
+    "Pinggiran ruam sedikit terangkat dan melebar secara perlahan.",
+    "Ruam dapat berwarna merah, ungu, cokelat, atau abu-abu tergantung warna kulit penderita.",
+    "Kadang muncul ruam datar yang gatal tanpa bentuk cincin yang jelas.",
+    "Beberapa ruam bisa tumpang tindih membentuk pola tidak beraturan.",
+    "Pada kasus tertentu, rambut di area terinfeksi rontok."
+  ],
+
+  "edukasi": [
+    "Jaga kebersihan tubuh dan mandi setiap hari, terutama setelah berkeringat.",
+    "Keringkan tubuh dengan baik setelah mandi, terutama di sela-sela jari dan lipatan kulit.",
+    "Jangan berbagi handuk, pakaian, alat olahraga, atau sisir dengan orang lain.",
+    "Hindari kontak langsung dengan hewan yang memiliki bercak botak atau luka kulit.",
+    "Gunakan sandal saat berada di kamar mandi umum, gym, atau kolam renang.",
+    {
+      "text": "Jika terinfeksi, pengobatan meliputi:",
+      "sub": [
+        "Gunakan krim antijamur over-the-counter seperti clotrimazole, miconazole, atau terbinafine sesuai petunjuk selama minimal 2 minggu.",
+        "Jika infeksi tidak membaik dalam 2 minggu, konsultasikan ke dokter untuk mendapatkan resep obat antijamur oral seperti terbinafine, itraconazole, atau fluconazole.",
+        "Untuk ringworm di kulit kepala, diperlukan obat oral dan sampo antijamur (misalnya ketoconazole) untuk mencegah penyebaran.",
+        "Selalu lanjutkan pengobatan hingga selesai, bahkan jika gejala mulai membaik sebelum waktunya.",
+        "Cuci pakaian, sprei, dan handuk dengan air panas dan deterjen agar jamur tidak menyebar kembali."
+      ]
+    }
+  ],
+
+  "warning": "Segera periksakan ke dokter jika ruam menyebar luas, tidak membaik setelah 2 minggu pengobatan topikal, terlihat bernanah atau berdarah, menyebabkan nyeri hebat, atau muncul di kulit kepala, wajah, atau area sensitif. Jangan gunakan krim steroid karena bisa memperburuk infeksi dan menyebarkan jamur ke area lain. Waspadai komplikasi seperti kerion (peradangan berat pada kulit kepala), terutama pada anak-anak, yang bisa menyebabkan luka bernanah dan rambut rontok permanen."
+},
+"Seborrheic Keratosis": {
+  "penjelasan": "Seborrheic keratosis merupakan bentuk paling umum dari Benign Keratosis (lesi kulit jinak dan non-kanker) yang umum terjadi, terutama pada orang berusia di atas 50 tahun. Lesi ini biasanya berbentuk bulat atau oval, sedikit terangkat, dan memiliki tampilan seperti ditempel di kulit. Warnanya bervariasi dari cokelat muda hingga hitam, dan sering kali tampak bertekstur seperti lilin, bersisik, atau kasar. Meskipun bisa menyerupai tahi lalat atau kanker kulit, seborrheic keratosis tidak berbahaya, tidak menular, dan tidak akan berkembang menjadi kanker. Namun, dapat diangkat jika mengganggu secara estetika atau teriritasi oleh pakaian.",
+  
+  "gejala": [
+    "Benjolan bundar atau oval berwarna cokelat, hitam, atau cokelat muda.",
+    "Tampilan lesi seperti 'ditempel' di permukaan kulit.",
+    "Tekstur lilin, bersisik, atau kasar saat disentuh.",
+    "Ukuran bervariasi dari kecil hingga lebih dari 2,5 cm.",
+    "Bisa muncul tunggal atau dalam kelompok.",
+    "Biasanya muncul di wajah, dada, punggung, atau bahu.",
+    "Terkadang terasa gatal atau teriritasi.",
+    "Pada kulit berwarna gelap, bisa muncul sebagai bintik-bintik kecil di sekitar mata (dermatosis papulosa nigra)."
+  ],
+  
+  "edukasi": [
+    "Seborrheic keratosis tidak menular dan tidak berhubungan dengan kanker kulit.",
+    "Kondisi ini lebih sering muncul seiring bertambahnya usia dan dapat diwariskan dalam keluarga.",
+    "Paparan sinar matahari mungkin berperan, tetapi tidak selalu menjadi penyebab langsung.",
+    "Tidak memerlukan pengobatan jika tidak menimbulkan keluhan atau kekhawatiran estetika.",
+    {
+      "text": "Pilihan pengobatan jika ingin dihilangkan antara lain:",
+      "sub": [
+        "Krioterapi (pembekuan dengan nitrogen cair) – efektif untuk lesi tipis.",
+        "Kuretase atau shaving – mengangkat lapisan atas kulit setelah anestesi lokal.",
+        "Elektrokauter – menggunakan arus listrik untuk membakar dan mengangkat lesi.",
+        "Terapi laser – membakar dan menghaluskan area kulit dengan hasil kosmetik yang baik.",
+        "Hidrogen peroksida topikal 40% (resep) – tersedia dalam bentuk aplikator dan digunakan di fasilitas medis."
+      ]
+    },
+    "Produk over-the-counter seperti AHA (asam glikolat/salisilat) atau krim vitamin D3 bisa membantu, tetapi hasilnya tidak secepat prosedur medis.",
+    "Pastikan diagnosis ditegakkan oleh dokter, terutama jika muncul perubahan mencurigakan pada kulit."
+  ],
+  
+  "warning": "Konsultasikan ke dokter jika lesi berubah cepat, berdarah, atau terasa nyeri — ini bisa menjadi tanda kondisi lain seperti kanker kulit. Hindari menggaruk atau mencoba menghilangkan sendiri karena dapat menyebabkan infeksi atau luka. Jika banyak lesi muncul tiba-tiba, segera periksakan karena bisa menjadi tanda kondisi medis yang lebih serius, seperti sindrom Leser-Trélat."
+},
+"Warts": {
+  "penjelasan": "Warts atau kutil adalah pertumbuhan kulit jinak (nonkanker) yang disebabkan oleh infeksi virus human papillomavirus (HPV). Kutil bisa muncul di berbagai bagian tubuh, namun paling umum ditemukan di tangan dan kaki. Terdapat berbagai jenis kutil seperti common warts, plantar warts, flat warts, dan filiform warts. Kutil biasanya tidak berbahaya, namun dapat menular dan menimbulkan ketidaknyamanan.",
+  
+  "gejala": [
+    "Benjolan kecil pada kulit dengan permukaan kasar atau berbintik seperti biji hitam (kapiler yang mati).",
+    "Dapat berbentuk datar, berbentuk kubah, menyerupai kembang kol, atau benjolan benang (filiform).",
+    "Muncul di area tangan, kaki, wajah, atau bagian tubuh lainnya.",
+    "Plantar warts bisa tumbuh ke dalam dan menimbulkan rasa sakit saat berjalan.",
+    "Kutil bisa muncul dalam jumlah satu atau banyak di area yang sama.",
+    "Warna kulit kutil dapat bervariasi, mulai dari warna kulit normal, abu-abu, hingga coklat tua atau hitam.",
+    "Kutil tidak menyebabkan nyeri, namun bisa mengganggu aktivitas jika terletak di area sensitif seperti telapak kaki."
+  ],
+
+  "edukasi": [
+    "Warts disebabkan oleh virus HPV dan dapat menyebar melalui kontak langsung atau tidak langsung (misalnya melalui handuk, alat cukur, atau lantai kamar mandi umum).",
+    "Untuk mencegah penularan, hindari menyentuh kutil orang lain atau berbagi barang pribadi.",
+    "Jangan menggaruk, memotong, atau memetik kutil karena bisa memperparah kondisi atau menyebabkan infeksi.",
+    "Menjaga kebersihan kulit dan melembapkan kulit dapat mengurangi risiko infeksi HPV.",
+    "Gunakan alas kaki di tempat umum seperti kamar mandi umum atau kolam renang untuk mencegah plantar warts.",
+    {
+      "text": "Pilihan pengobatan meliputi:",
+      "sub": [
+        "Salep atau cairan yang mengandung salicylic acid (obat bebas) yang dioles setiap hari selama beberapa minggu hingga kutil hilang.",
+        "Cryotherapy atau pembekuan dengan nitrogen cair oleh dokter.",
+        "Aplikasi cantharidin oleh tenaga medis yang memicu lepuhan di bawah kutil untuk mengangkatnya.",
+        "Jika tidak berhasil, tersedia pilihan seperti imunoterapi (mengaktifkan sistem imun untuk melawan HPV), electrosurgery, atau terapi laser.",
+        "Beberapa orang memilih menutup kutil dengan plester khusus (seperti duct tape), walau efektivitasnya masih diperdebatkan."
+      ]
+    }
+  ],
+
+  "warning": "Segera konsultasi dengan dokter jika kutil tidak membaik setelah pengobatan mandiri, terasa nyeri, berdarah, bernanah, atau jumlahnya bertambah. Waspadai jika kutil muncul di wajah, area genital, mulut, atau jika kamu memiliki sistem imun yang lemah (misalnya penderita HIV/AIDS atau pengguna imunosupresan). Jangan mencoba memotong atau mencabut kutil sendiri karena dapat menyebabkan infeksi atau luka yang sulit sembuh. Penderita diabetes sebaiknya tidak menangani kutil sendiri, terutama jika muncul di kaki, karena berisiko menimbulkan komplikasi serius."
+},
+"Unknown": {
+  "penjelasan": "Gambar tidak dapat diklasifikasikan secara akurat ke dalam kategori penyakit kulit yang telah dikenali oleh sistem. Hal ini dapat disebabkan oleh beberapa kemungkinan, seperti kualitas gambar yang kurang jelas atau resolusi yang rendah, keberadaan kondisi kulit yang belum termasuk dalam data pelatihan model, atau adanya campuran gejala yang menyerupai beberapa kategori sekaligus. Oleh karena itu, sistem tidak dapat memberikan diagnosis yang spesifik untuk kasus ini.",
+  
+  "warning":
+    "Jika kondisi kulit Anda menunjukkan gejala yang mengkhawatirkan, disarankan untuk berkonsultasi langsung dengan tenaga medis atau dokter spesialis kulit (dermatolog) untuk diagnosis lebih lanjut."
+},
+"Urticaria Hives": {
+  "penjelasan": "Urtikaria Hives atau biduran adalah kondisi kulit yang ditandai dengan munculnya weal (bentol) yang sangat gatal, disertai atau tanpa kemerahan di sekitarnya. Weal ini bersifat sementara, biasanya hilang dalam waktu kurang dari 24 jam tetapi bisa berpindah ke bagian lain. Urtikaria bisa bersifat akut (kurang dari 6 minggu) atau kronis (lebih dari 6 minggu), dan dapat muncul secara spontan atau karena rangsangan fisik (inducible urticaria). Kondisi ini bisa disertai angioedema, yaitu pembengkakan yang lebih dalam di kulit atau selaput lendir. Penyebabnya beragam, mulai dari reaksi alergi, infeksi, hingga faktor autoimun, dan pada banyak kasus kronis, penyebabnya tidak diketahui (idiopatik).",
+
+  "gejala": [
+    "Munculnya bentol (weal) berwarna merah atau pucat, bisa kecil atau besar, sering berubah bentuk dan lokasi.",
+    "Gatal hebat, bisa terasa seperti menyengat atau terbakar.",
+    "Bentol muncul dan menghilang dalam waktu kurang dari 24 jam, tetapi bisa muncul kembali di tempat lain.",
+    "Dapat disertai angioedema, terutama di wajah (kelopak mata, bibir), tangan, kaki, atau saluran pernapasan.",
+    "Ruam bisa muncul di seluruh tubuh dan cenderung menyebar luas.",
+    "Pada urtikaria fisik, bentol muncul akibat rangsangan seperti dingin, panas, tekanan, gesekan, atau sinar matahari.",
+    "Gejala bisa memburuk di malam hari dan mengganggu tidur."
+  ],
+
+  "edukasi": [
+    "Pengobatan utama adalah antihistamin generasi kedua seperti cetirizine atau loratadine; dosis dapat ditingkatkan hingga 4 kali lipat jika gejala tidak membaik.",
+    "Hindari pemicu yang diketahui, seperti makanan tertentu, obat-obatan (aspirin, NSAID), suhu ekstrem, pakaian ketat, dan stres emosional.",
+    "Gunakan pakaian longgar dan sejuk, serta hindari menggaruk berlebihan untuk mencegah iritasi tambahan.",
+    "Catat dan pantau gejala harian menggunakan skala seperti UAS7 untuk menilai aktivitas urtikaria.",
+    "Kompres dingin atau pelembap ringan dapat membantu meredakan rasa gatal.",
+    "Pada kasus kronis yang tidak membaik dengan antihistamin, dokter mungkin meresepkan obat tambahan seperti omalizumab atau ciclosporin.",
+    "Gatal bisa bertahan meskipun bentol sudah hilang; tetap lanjutkan pengobatan sesuai arahan dokter."
+  ],
+
+  "warning": "Segera cari pertolongan medis jika mengalami pembengkakan mendadak pada bibir, lidah, atau tenggorokan, sulit bernapas, pusing berat, atau kehilangan kesadaran—karena ini bisa menjadi tanda reaksi alergi berat (anafilaksis). Jika urtikaria berlangsung lebih dari 6 minggu, tidak membaik dengan antihistamin, atau memengaruhi kualitas hidup (misalnya gangguan tidur), konsultasikan ke dokter spesialis kulit atau alergi. Hindari penggunaan steroid jangka panjang tanpa pengawasan medis karena berisiko efek samping serius."
+}
+}
