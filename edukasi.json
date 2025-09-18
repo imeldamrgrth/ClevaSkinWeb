@@ -1,6 +1,6 @@
 {
   "Acne": {
-    "penjelasan": "Kondisi kulit umum yang terjadi saat pori-pori tersumbat oleh minyak, sel kulit mati, dan bakteri...",
+    "penjelasan": "Acne (Jerawat) adalah kondisi kulit yang terjadi ketika folikel rambut tersumbat oleh minyak (sebum) dan sel kulit mati, yang dapat menyebabkan munculnya komedo, whitehead, blackhead, atau jerawat bernanah. Meskipun paling sering terjadi pada remaja, acne dapat mempengaruhi orang di segala usia.",
     "gejala": [
       "Komedo putih (whiteheads): pori tertutup yang tersumbat.",
       "Komedo hitam (blackheads): pori terbuka yang tersumbat.",
@@ -11,7 +11,7 @@
     ],
     "edukasi": [
       "Cuci wajah dua kali sehari dengan air hangat dan pembersih lembut.",
-      "Gunakan pelembap bebas minyak (_oil-free_) dan produk dengan label 'noncomedogenic'.",
+      "Gunakan pelembap bebas minyak atau oil-free dan produk dengan label 'noncomedogenic'.",
       "Hindari menyentuh atau memencet jerawat.",
       {
         "text": "Gunakan produk bebas resep seperti:",
@@ -24,9 +24,9 @@
       "Hapus riasan sebelum tidur.",
       "Konsumsi makanan sehat dan hindari konsumsi berlebihan makanan tinggi gula atau susu rendah lemak."
     ],
-    "warning": "Segera ke dokter jika jerawat memburuk, terasa nyeri, meninggalkan bekas, atau muncul tiba-tiba di usia dewasa."
+    "warning": "Segera ke dokter jika terasa nyeri, meninggalkan bekas atau jerawat memburuk."
 },
-  "Athlete Foot": {
+  "Athlete's Foot": {
     "penjelasan": "Athlete's foot (tinea pedis) adalah infeksi jamur menular pada kulit kaki yang menyebabkan ruam gatal, menyengat, dan terbakar. Umumnya terjadi di antara jari-jari kaki dan sering menyerang orang yang memakai sepatu tertutup dalam waktu lama. Infeksi ini bisa kambuh dan menyebar ke bagian tubuh lain.",
     "gejala": [
       "Kulit bersisik, mengelupas, atau pecah-pecah di antara jari kaki.",
@@ -61,7 +61,7 @@
       "Jika memungkinkan, biarkan kaki terkena udara sebanyak mungkin.",
       "Gunakan bedak kaki antijamur atau bedak talek untuk menjaga kaki tetap kering."
     ],
-    "warning": "Segera temui dokter jika ruam tidak membaik dalam dua minggu setelah perawatan mandiri, jika mengalami pembengkakan, demam, atau keluarnya nanah dari area terinfeksi. Jika Anda mengidap diabetes dan mencurigai athlete’s foot, sebaiknya langsung konsultasi ke dokter karena risiko komplikasi lebih tinggi."
+    "warning": "Segera temui dokter jika ruam tidak membaik dalam dua minggu setelah perawatan mandiri, jika mengalami pembengkakan, demam atau keluarnya nanah dari area terinfeksi. Jika Anda mengidap diabetes dan mencurigai athlete’s foot, sebaiknya langsung konsultasi ke dokter karena risiko komplikasi lebih tinggi."
 },
   "Atopic Dermatitis": {
     "penjelasan": "Atopic dermatitis atau eksim atopik adalah kondisi kulit kronis yang menyebabkan kulit menjadi kering, gatal, meradang, dan terkadang pecah-pecah. Penyakit ini bisa kambuh secara berkala dan umum terjadi pada anak-anak, namun bisa juga berlangsung hingga dewasa. Meskipun tidak menular, kondisi ini dapat memengaruhi kualitas hidup penderitanya.",
@@ -233,7 +233,7 @@
     }
   ],
 
-  "warning": "Segera periksakan ke dokter jika ruam menyebar luas, tidak membaik setelah 2 minggu pengobatan topikal, terlihat bernanah atau berdarah, menyebabkan nyeri hebat, atau muncul di kulit kepala, wajah, atau area sensitif. Jangan gunakan krim steroid karena bisa memperburuk infeksi dan menyebarkan jamur ke area lain. Waspadai komplikasi seperti kerion (peradangan berat pada kulit kepala), terutama pada anak-anak, yang bisa menyebabkan luka bernanah dan rambut rontok permanen."
+  "warning": "Segera periksakan ke dokter jika ruam menyebar luas, tidak membaik setelah 2 minggu dan terlihat bernanah atau berdarah, menyebabkan nyeri hebat, atau muncul di kulit kepala, wajah, atau area sensitif. Jangan gunakan krim steroid karena bisa memperburuk infeksi dan menyebarkan jamur ke area lain. Waspadai komplikasi seperti kerion (peradangan berat pada kulit kepala), terutama pada anak-anak, yang bisa menyebabkan luka bernanah dan rambut rontok permanen."
 },
 "Seborrheic Keratosis": {
   "penjelasan": "Seborrheic keratosis merupakan bentuk paling umum dari Benign Keratosis (lesi kulit jinak dan non-kanker) yang umum terjadi, terutama pada orang berusia di atas 50 tahun. Lesi ini biasanya berbentuk bulat atau oval, sedikit terangkat, dan memiliki tampilan seperti ditempel di kulit. Warnanya bervariasi dari cokelat muda hingga hitam, dan sering kali tampak bertekstur seperti lilin, bersisik, atau kasar. Meskipun bisa menyerupai tahi lalat atau kanker kulit, seborrheic keratosis tidak berbahaya, tidak menular, dan tidak akan berkembang menjadi kanker. Namun, dapat diangkat jika mengganggu secara estetika atau teriritasi oleh pakaian.",
@@ -270,6 +270,37 @@
   
   "warning": "Konsultasikan ke dokter jika lesi berubah cepat, berdarah, atau terasa nyeri — ini bisa menjadi tanda kondisi lain seperti kanker kulit. Hindari menggaruk atau mencoba menghilangkan sendiri karena dapat menyebabkan infeksi atau luka. Jika banyak lesi muncul tiba-tiba, segera periksakan karena bisa menjadi tanda kondisi medis yang lebih serius, seperti sindrom Leser-Trélat."
 },
+"Unknown": {
+  "penjelasan": "Gambar tidak dapat diklasifikasikan secara akurat ke dalam kategori penyakit kulit yang telah dikenali oleh sistem. Hal ini dapat disebabkan oleh beberapa kemungkinan, seperti kualitas gambar yang kurang jelas atau resolusi yang rendah, keberadaan kondisi kulit yang belum termasuk dalam data pelatihan model, atau adanya campuran gejala yang menyerupai beberapa kategori sekaligus. Oleh karena itu, sistem tidak dapat memberikan diagnosis yang spesifik untuk kasus ini.",
+  
+  "warning":
+    "Jika kondisi kulit Anda menunjukkan gejala yang mengkhawatirkan, disarankan untuk berkonsultasi langsung dengan tenaga medis atau dokter spesialis kulit (dermatolog) untuk diagnosis lebih lanjut."
+},
+"Urticaria Hives": {
+  "penjelasan": "Urtikaria atau biduran adalah kondisi kulit yang ditandai dengan munculnya weal (bentol) yang sangat gatal, disertai atau tanpa kemerahan di sekitarnya. Weal ini bersifat sementara, biasanya hilang dalam waktu kurang dari 24 jam tetapi bisa berpindah ke bagian lain. Urtikaria bisa bersifat akut (kurang dari 6 minggu) atau kronis (lebih dari 6 minggu), dan dapat muncul secara spontan atau karena rangsangan fisik (inducible urticaria). Kondisi ini bisa disertai angioedema, yaitu pembengkakan yang lebih dalam di kulit atau selaput lendir. Penyebabnya beragam, mulai dari reaksi alergi, infeksi, hingga faktor autoimun, dan pada banyak kasus kronis, penyebabnya tidak diketahui (idiopatik).",
+
+  "gejala": [
+    "Munculnya bentol (weal) berwarna merah atau pucat, bisa kecil atau besar, sering berubah bentuk dan lokasi.",
+    "Gatal hebat, bisa terasa seperti menyengat atau terbakar.",
+    "Bentol muncul dan menghilang dalam waktu kurang dari 24 jam, tetapi bisa muncul kembali di tempat lain.",
+    "Dapat disertai angioedema, terutama di wajah (kelopak mata, bibir), tangan, kaki, atau saluran pernapasan.",
+    "Ruam bisa muncul di seluruh tubuh dan cenderung menyebar luas.",
+    "Pada urtikaria fisik, bentol muncul akibat rangsangan seperti dingin, panas, tekanan, gesekan, atau sinar matahari.",
+    "Gejala bisa memburuk di malam hari dan mengganggu tidur."
+  ],
+
+  "edukasi": [
+    "Pengobatan utama adalah antihistamin generasi kedua seperti cetirizine atau loratadine; dosis dapat ditingkatkan hingga 4 kali lipat jika gejala tidak membaik.",
+    "Hindari pemicu yang diketahui, seperti makanan tertentu, obat-obatan (aspirin, NSAID), suhu ekstrem, pakaian ketat, dan stres emosional.",
+    "Gunakan pakaian longgar dan sejuk, serta hindari menggaruk berlebihan untuk mencegah iritasi tambahan.",
+    "Catat dan pantau gejala harian menggunakan skala seperti UAS7 untuk menilai aktivitas urtikaria.",
+    "Kompres dingin atau pelembap ringan dapat membantu meredakan rasa gatal.",
+    "Pada kasus kronis yang tidak membaik dengan antihistamin, dokter mungkin meresepkan obat tambahan seperti omalizumab atau ciclosporin.",
+    "Gatal bisa bertahan meskipun bentol sudah hilang; tetap lanjutkan pengobatan sesuai arahan dokter."
+  ],
+
+  "warning": "Segera cari pertolongan medis jika mengalami pembengkakan mendadak pada bibir, lidah, atau tenggorokan, sulit bernapas, pusing berat, atau kehilangan kesadaran—karena ini bisa menjadi tanda reaksi alergi berat (anafilaksis). Jika urtikaria berlangsung lebih dari 6 minggu, tidak membaik dengan antihistamin, atau memengaruhi kualitas hidup (misalnya gangguan tidur), konsultasikan ke dokter spesialis kulit atau alergi. Hindari penggunaan steroid jangka panjang tanpa pengawasan medis karena berisiko efek samping serius."
+},
 "Warts": {
   "penjelasan": "Warts atau kutil adalah pertumbuhan kulit jinak (nonkanker) yang disebabkan oleh infeksi virus human papillomavirus (HPV). Kutil bisa muncul di berbagai bagian tubuh, namun paling umum ditemukan di tangan dan kaki. Terdapat berbagai jenis kutil seperti common warts, plantar warts, flat warts, dan filiform warts. Kutil biasanya tidak berbahaya, namun dapat menular dan menimbulkan ketidaknyamanan.",
   
@@ -302,36 +333,5 @@
   ],
 
   "warning": "Segera konsultasi dengan dokter jika kutil tidak membaik setelah pengobatan mandiri, terasa nyeri, berdarah, bernanah, atau jumlahnya bertambah. Waspadai jika kutil muncul di wajah, area genital, mulut, atau jika kamu memiliki sistem imun yang lemah (misalnya penderita HIV/AIDS atau pengguna imunosupresan). Jangan mencoba memotong atau mencabut kutil sendiri karena dapat menyebabkan infeksi atau luka yang sulit sembuh. Penderita diabetes sebaiknya tidak menangani kutil sendiri, terutama jika muncul di kaki, karena berisiko menimbulkan komplikasi serius."
-},
-"Unknown": {
-  "penjelasan": "Gambar tidak dapat diklasifikasikan secara akurat ke dalam kategori penyakit kulit yang telah dikenali oleh sistem. Hal ini dapat disebabkan oleh beberapa kemungkinan, seperti kualitas gambar yang kurang jelas atau resolusi yang rendah, keberadaan kondisi kulit yang belum termasuk dalam data pelatihan model, atau adanya campuran gejala yang menyerupai beberapa kategori sekaligus. Oleh karena itu, sistem tidak dapat memberikan diagnosis yang spesifik untuk kasus ini.",
-  
-  "warning":
-    "Jika kondisi kulit Anda menunjukkan gejala yang mengkhawatirkan, disarankan untuk berkonsultasi langsung dengan tenaga medis atau dokter spesialis kulit (dermatolog) untuk diagnosis lebih lanjut."
-},
-"Urticaria Hives": {
-  "penjelasan": "Urtikaria Hives atau biduran adalah kondisi kulit yang ditandai dengan munculnya weal (bentol) yang sangat gatal, disertai atau tanpa kemerahan di sekitarnya. Weal ini bersifat sementara, biasanya hilang dalam waktu kurang dari 24 jam tetapi bisa berpindah ke bagian lain. Urtikaria bisa bersifat akut (kurang dari 6 minggu) atau kronis (lebih dari 6 minggu), dan dapat muncul secara spontan atau karena rangsangan fisik (inducible urticaria). Kondisi ini bisa disertai angioedema, yaitu pembengkakan yang lebih dalam di kulit atau selaput lendir. Penyebabnya beragam, mulai dari reaksi alergi, infeksi, hingga faktor autoimun, dan pada banyak kasus kronis, penyebabnya tidak diketahui (idiopatik).",
-
-  "gejala": [
-    "Munculnya bentol (weal) berwarna merah atau pucat, bisa kecil atau besar, sering berubah bentuk dan lokasi.",
-    "Gatal hebat, bisa terasa seperti menyengat atau terbakar.",
-    "Bentol muncul dan menghilang dalam waktu kurang dari 24 jam, tetapi bisa muncul kembali di tempat lain.",
-    "Dapat disertai angioedema, terutama di wajah (kelopak mata, bibir), tangan, kaki, atau saluran pernapasan.",
-    "Ruam bisa muncul di seluruh tubuh dan cenderung menyebar luas.",
-    "Pada urtikaria fisik, bentol muncul akibat rangsangan seperti dingin, panas, tekanan, gesekan, atau sinar matahari.",
-    "Gejala bisa memburuk di malam hari dan mengganggu tidur."
-  ],
-
-  "edukasi": [
-    "Pengobatan utama adalah antihistamin generasi kedua seperti cetirizine atau loratadine; dosis dapat ditingkatkan hingga 4 kali lipat jika gejala tidak membaik.",
-    "Hindari pemicu yang diketahui, seperti makanan tertentu, obat-obatan (aspirin, NSAID), suhu ekstrem, pakaian ketat, dan stres emosional.",
-    "Gunakan pakaian longgar dan sejuk, serta hindari menggaruk berlebihan untuk mencegah iritasi tambahan.",
-    "Catat dan pantau gejala harian menggunakan skala seperti UAS7 untuk menilai aktivitas urtikaria.",
-    "Kompres dingin atau pelembap ringan dapat membantu meredakan rasa gatal.",
-    "Pada kasus kronis yang tidak membaik dengan antihistamin, dokter mungkin meresepkan obat tambahan seperti omalizumab atau ciclosporin.",
-    "Gatal bisa bertahan meskipun bentol sudah hilang; tetap lanjutkan pengobatan sesuai arahan dokter."
-  ],
-
-  "warning": "Segera cari pertolongan medis jika mengalami pembengkakan mendadak pada bibir, lidah, atau tenggorokan, sulit bernapas, pusing berat, atau kehilangan kesadaran—karena ini bisa menjadi tanda reaksi alergi berat (anafilaksis). Jika urtikaria berlangsung lebih dari 6 minggu, tidak membaik dengan antihistamin, atau memengaruhi kualitas hidup (misalnya gangguan tidur), konsultasikan ke dokter spesialis kulit atau alergi. Hindari penggunaan steroid jangka panjang tanpa pengawasan medis karena berisiko efek samping serius."
 }
 }
